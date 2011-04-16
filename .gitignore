@@ -1,0 +1,8 @@
+.DS_Store
+log/*.log
+.*.swp
+*.swp
+*.swo
+tmp/*
+Session.vim
+.rdebugrc

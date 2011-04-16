@@ -1,0 +1,15 @@
+Some app:
+
+version 0!
+run app `shoes coderoulette.rb <project path>`
+editor is ENV['EDITOR'] / visual editor / configurable
+
+/---------------------------\
+|                           |
+|  File: [  <le spinner>  ] |
+|                           |
+|  Line: [####] [Committer] | 
+|                           |
+|     [ Launch Editor ]     |
+|                           |
+\---------------------------/
