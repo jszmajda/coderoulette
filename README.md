@@ -1,7 +1,7 @@
 CodeRoulette
 ============
 
-Roll the dice, review some code!
+Spin the wheel, review some code!
 
 ### A Shoes App
 
