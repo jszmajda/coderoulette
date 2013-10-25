@@ -23,4 +23,4 @@ or in linux:
 
 Here's what it looks like:
 
-![coderoulette](http://haven.loki.ws/coderoulette.png)
+![coderoulette](http://loki.ws/~josh/coderoulette.png)
