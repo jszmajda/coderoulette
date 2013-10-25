@@ -1,7 +1,7 @@
 class RouletteWheel
   attr_reader :pathset, :file, :line_number, :pathkey
 
-  def initialize(glob_pattern="*.{rb,erb,haml,js}")
+  def initialize(glob_pattern="*.{rb,erb,haml,js,coffee}")
     @glob_pattern = glob_pattern
     @pathset = []
     @fileset = {}
